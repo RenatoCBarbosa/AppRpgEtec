@@ -19,4 +19,6 @@ public partial class ListagemView : ContentPage
         base.OnAppearing();
 		_ = viewModel.ObterPersonagens();
     }
+
+	//test comment
 }
